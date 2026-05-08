@@ -13,22 +13,18 @@ and finally, send cryptocurrencies.
 
 ![Screenshot](./img/01_Developing_bitcoin_wallet_generator.png)
 
-- Creating deposit addresses
+- Creating deposit addresses and sending Bitcoin and private key
 
-![Screenshot](./img/02_Creating_deposit_addresses.png)
-
-- Creating bitcoin sending addresses
-
-![Screenshot](./img/03_Creating_bitcoin_sending_addresses.png)
+![Screenshot](./img/02_Deposit_addresses_sending_Bitcoin_private_key.png)
 
 - Importing wallet for Electrum
 
-![Screenshot](./img/04_Importing_wallet_Electrum.png)
+![Screenshot](./img/03_Importing_wallet_Electrum.png)
 
 - Sending cryptocurrencies
 
-![Screenshot](./img/05_Sending_cryptocurrencies.png)
+![Screenshot](./img/04_Sending_cryptocurrencies.png)
 
 [LICENSE](/LICENSE)
 
-See [original repository](https://github.com/cassianobrexbit/bitcoin-dio).
+See [original repository](https://github.com/cassianobrexbit/bitcoin-dio)
