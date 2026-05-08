@@ -4,10 +4,10 @@ Daily learning
 
 Project developed at the Bootcamp Blockchain Specialist Training, under the guidance of specialist [Cassiano Peres](https://github.com/cassianobrexbit/ "Cassiano Peres").
 
-In this challenge, we will create a bitcoin wallet generator using public and private key pairs.
-You will develop a generator to create deposit and send bitcoin addresses for the generated wallet.
-Additionally, we will import this wallet into Electrum, a desktop application for sending and receiving bitcoin transactions,
-and finally, send cryptocurrencies.
+1. In this challenge, we will create a bitcoin wallet generator using public and private key pairs.
+2. You will develop a generator to create deposit and send bitcoin addresses for the generated wallet.
+3. Additionally, we will import this wallet into Electrum, a desktop application for sending and receiving bitcoin transactions,
+4. and finally, send cryptocurrencies.
 
 - Developing a bitcoin wallet generator
 
