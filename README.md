@@ -1,6 +1,6 @@
-# Daily learning
+Daily learning
 
-## Creating and Using Your Cryptocurrency Wallet
+# Creating and Using Your Cryptocurrency Wallet
 
 Project developed at the Bootcamp Blockchain Specialist Training, under the guidance of specialist [Cassiano Peres](https://github.com/cassianobrexbit/ "Cassiano Peres").
 
