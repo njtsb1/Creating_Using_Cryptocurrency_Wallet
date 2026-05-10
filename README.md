@@ -6,7 +6,7 @@ Project developed at the Bootcamp Blockchain Specialist Training, under the guid
 
 1. In this challenge, we will create a bitcoin wallet generator using public and private key pairs.
 2. You will develop a generator to create deposit and send bitcoin addresses for the generated wallet.
-3. Additionally, we will import this wallet into Electrum, a desktop application for sending and receiving bitcoin transactions,
+3. Additionally, we will import this wallet into [Electrum](https://electrum.org/), a desktop application for sending and receiving bitcoin transactions,
 4. and finally, send cryptocurrencies.
 
 - Developing a bitcoin wallet generator
@@ -17,11 +17,11 @@ Project developed at the Bootcamp Blockchain Specialist Training, under the guid
 
 ![Screenshot](./img/02_Deposit_addresses_sending_Bitcoin_private_key.png)
 
-- Importing wallet for Electrum
+- Importing wallet for [Electrum](https://electrum.org/)
 
 ![Screenshot](./img/03_Importing_wallet_Electrum.png)
 
-- Sending cryptocurrencies
+- Sending cryptocurrencies - [Bitcoin Testnet Faucet](https://bitcoinfaucet.uo1.net/)
 
 ![Screenshot](./img/04_Sending_cryptocurrencies.png)
 
